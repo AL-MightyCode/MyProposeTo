@@ -1,0 +1,16 @@
+{
+  "name": "proposal-website",
+  "version": "1.0.0",
+  "description": "An interactive proposal website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "install": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
