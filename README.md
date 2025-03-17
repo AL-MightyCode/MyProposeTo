@@ -13,7 +13,7 @@ A fun and interactive website designed to ask someone to be your girlfriend. The
 
 ## Live Demo 🚀
 
-[View Live Demo](your-render-url-here)
+[View Live Demo](https://myproposeto.onrender.com)
 
 ## Project Structure 📁 
 
@@ -60,7 +60,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author ✨
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@AL-MightyCode](https://github.com/AL-MightyCode)
 
 ## Acknowledgments 🙏
 
