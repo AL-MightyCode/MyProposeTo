@@ -1,0 +1,63 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+    overflow-x: hidden;
+    background-color:purple;
+}
+
+h1 {
+    color: #ff69b4;
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.sticker {
+    width: 80%;
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 25px;
+    padding: 12px 25px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+}
+
+#no-button {
+    position: relative;
+}
+#no-button{
+    background-color: red;
+    color:white;
+}
+#yes-button{
+    background-color: green;
+    color: white;
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.7em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+
+    button {
+        font-size: 16px;
+        padding: 10px 18px;
+    }
+} 
